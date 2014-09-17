@@ -39,7 +39,7 @@ def main():
         word = word.strip().lower()
         # See if the word contains bad characters.
         if not word.isalpha():
-            print( "Word contains illegal characters. Try again")
+            print("Word contains illegal characters. Try again")
             continue
         # Should we terminate
         elif word == 'exit':
