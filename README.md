@@ -1,4 +1,4 @@
 python-jumble
 =============
 
-Solves a 5 or 6 letter word jumble using a tree algorithm 
+Script uses a Python 3.x to solve a 4 to 13 letter word jumble using a binary tree algorithm.
